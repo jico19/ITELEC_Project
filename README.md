@@ -1,6 +1,6 @@
 ## Deliverables Checklist
 
-- [ ] Palmer Penguins
+- [ / ] Palmer Penguins
 - [ ] UK Road Accident
 - [ ] Dengue
 - [ ] Linear Regression (Salary.csv)

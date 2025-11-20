@@ -5,5 +5,5 @@
 - [x] Dengue
 - [x] Linear Regression (Salary.csv)
 - [x] Linear Regression with Decision Tree (Housing.csv)
-- [ ] Titanic
+- [x] Titanic
 - [ ] Movie Ratings (Power BI)
